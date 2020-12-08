@@ -1,0 +1,25 @@
+{
+  "name": "auto-merge",
+  "private": true,
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chocolateloverraj/auto-merge.git"
+  },
+  "keywords": [],
+  "author": "Rajas Paranjpe",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chocolateloverraj/auto-merge/issues"
+  },
+  "homepage": "https://github.com/chocolateloverraj/auto-merge#readme",
+  "dependencies": {
+    "@actions/core": "^1.2.6",
+    "@actions/github": "^4.0.0"
+  }
+}
